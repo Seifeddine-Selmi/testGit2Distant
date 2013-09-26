@@ -1,3 +1,7 @@
 Hallooooooooooo
+<<<<<<< HEAD
 HIIIIIIIII
-HOHOHOHO
+HOHOHOHOO
+=======
+HIIIIIIIII
+>>>>>>> 55c7d98d3a6ef22383eab2774942e38179b973dc
